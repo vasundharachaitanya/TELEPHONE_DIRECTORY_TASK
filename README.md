@@ -1,4 +1,4 @@
-# TELEPHONE_DIRECTORY_TASK
+# TELEPHONE_DIRECTORY_TASK_IN_PYTHON
 This project is a simple implementation of a telephone directory using Python. It allows the user to add, search, update, and delete contact information such as name, phone number, and email address.
 
 The telephone directory is a useful tool for keeping track of important contact information, and this project provides a lightweight, customizable solution for managing your contacts. Whether you're a busy professional, a student, or just someone who likes to stay organized, the telephone directory can help you stay on top of your contact list.
